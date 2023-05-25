@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "今日はめちゃめちゃ楽しかった！",
+    "completion": "Positive"
+  },
+  {
+    "prompt": "君にはがっかりさせられたよ。",
+    "completion": "Negative"
+  }
+]
